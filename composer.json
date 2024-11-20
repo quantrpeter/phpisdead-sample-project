@@ -1,9 +1,9 @@
 {
-	"name": "peter/phpisdead-testing-project",
+	"name": "quantr/phpisdead-testing-project",
 	"type": "project",
 	"autoload": {
 		"psr-4": {
-			"Peter\\PhpisdeadTestingProject\\": "src/"
+			"Quantr\\PhpIsDeadSampleProject\\": "src/"
 		}
 	},
 	"authors": [
