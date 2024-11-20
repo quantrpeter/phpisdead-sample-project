@@ -1,5 +1,5 @@
 {
-	"name": "quantr/phpisdead-testing-project",
+	"name": "quantr/phpisdead-sample-project",
 	"type": "project",
     "license": "Apache-2.0",
 	"autoload": {
