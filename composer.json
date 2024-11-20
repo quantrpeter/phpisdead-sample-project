@@ -15,5 +15,10 @@
 	],
 	"require": {
 		"quantr/phpisdead": "dev-main"
-	}
+	},
+	"scripts": {
+        "post-root-package-install": [
+            "@echo \"Thank you Peter\";"
+        ]
+    }
 }
