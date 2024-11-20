@@ -7,5 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Quantr\\PhpIsDead\\' => array($vendorDir . '/quantr/phpisdead/src'),
-    'Peter\\PhpisdeadTestingProject\\' => array($baseDir . '/src'),
+    'Quantr\\PhpIsDeadSampleProject\\' => array($baseDir . '/src'),
 );

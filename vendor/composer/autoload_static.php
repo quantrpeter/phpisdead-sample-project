@@ -10,10 +10,7 @@ class ComposerStaticInit0bb95c610356cd9302fa1f306298bce1
         'Q' => 
         array (
             'Quantr\\PhpIsDead\\' => 17,
-        ),
-        'P' => 
-        array (
-            'Peter\\PhpisdeadTestingProject\\' => 30,
+            'Quantr\\PhpIsDeadSampleProject\\' => 30,
         ),
     );
 
@@ -22,7 +19,7 @@ class ComposerStaticInit0bb95c610356cd9302fa1f306298bce1
         array (
             0 => __DIR__ . '/..' . '/quantr/phpisdead/src',
         ),
-        'Peter\\PhpisdeadTestingProject\\' => 
+        'Quantr\\PhpIsDeadSampleProject\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

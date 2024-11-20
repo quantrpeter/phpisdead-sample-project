@@ -7,15 +7,15 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/quantrpeter/phpisdead.git",
-                "reference": "6704f385416c4dad38c095971ac0ed1b8dbc22df"
+                "reference": "cabd5a0b547aa7d3a6baf9882bc7f108aff103e4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/quantrpeter/phpisdead/zipball/6704f385416c4dad38c095971ac0ed1b8dbc22df",
-                "reference": "6704f385416c4dad38c095971ac0ed1b8dbc22df",
+                "url": "https://api.github.com/repos/quantrpeter/phpisdead/zipball/cabd5a0b547aa7d3a6baf9882bc7f108aff103e4",
+                "reference": "cabd5a0b547aa7d3a6baf9882bc7f108aff103e4",
                 "shasum": ""
             },
-            "time": "2024-11-18T17:41:37+00:00",
+            "time": "2024-11-20T10:28:37+00:00",
             "default-branch": true,
             "type": "library",
             "installation-source": "dist",
