@@ -1,0 +1,47 @@
+{
+    "packages": [
+        {
+            "name": "quantr/phpisdead",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/quantrpeter/phpisdead.git",
+                "reference": "6704f385416c4dad38c095971ac0ed1b8dbc22df"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/quantrpeter/phpisdead/zipball/6704f385416c4dad38c095971ac0ed1b8dbc22df",
+                "reference": "6704f385416c4dad38c095971ac0ed1b8dbc22df",
+                "shasum": ""
+            },
+            "time": "2024-11-18T17:41:37+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Quantr\\PhpIsDead\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Peter",
+                    "email": "peter@quantr.hk"
+                }
+            ],
+            "description": "Php framework",
+            "support": {
+                "issues": "https://github.com/quantrpeter/phpisdead/issues",
+                "source": "https://github.com/quantrpeter/phpisdead/tree/main"
+            },
+            "install-path": "../quantr/phpisdead"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

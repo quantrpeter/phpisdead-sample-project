@@ -1,0 +1,18 @@
+{
+	"name": "peter/phpisdead-testing-project",
+	"type": "project",
+	"autoload": {
+		"psr-4": {
+			"Peter\\PhpisdeadTestingProject\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Peter",
+			"email": "peter@quantr.hk"
+		}
+	],
+	"require": {
+		"quantr/phpisdead": "dev-main"
+	}
+}

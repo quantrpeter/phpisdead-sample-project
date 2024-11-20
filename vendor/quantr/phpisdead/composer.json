@@ -1,0 +1,18 @@
+{
+    "name": "quantr/phpisdead",
+    "description": "Php framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Quantr\\PhpIsDead\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Peter",
+            "email": "peter@quantr.hk"
+        }
+    ],
+    "require": {}
+}
