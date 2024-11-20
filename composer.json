@@ -18,7 +18,7 @@
 	},
 	"scripts": {
         "post-root-package-install": [
-            "@echo \"Thank you Peter\";"
+            "@php -r \"echo 'Thank you Peter';\";"
         ]
     }
 }
