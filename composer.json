@@ -1,6 +1,7 @@
 {
 	"name": "quantr/phpisdead-testing-project",
 	"type": "project",
+    "license": "Apache",
 	"autoload": {
 		"psr-4": {
 			"Quantr\\PhpIsDeadSampleProject\\": "src/"
